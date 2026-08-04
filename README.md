@@ -19,9 +19,7 @@
 
 ## About Me
 
-I'm a **Mathematics & Computer Science** student at **UC San Diego** (B.S. '27), currently a **Software Developer Intern at IBM** working on test automation for watsonx.ai. Most of what I build sits at the intersection of **machine learning and real infrastructure**: retrieval systems, ingestion pipelines, computer vision for robotics, and the unglamorous plumbing that keeps all of it running in production.
-
-I care about correctness, reproducibility, and code that someone else can pick up six months later without cursing my name.
+I'm a **Mathematics & Computer Science** student at **UC San Diego** (B.S. '27), currently a **Software Developer Intern at IBM** working on automation for watsonx.ai. I love building, and am especially interested in **machine learning and real infrastructure**: retrieval systems, ingestion pipelines, and computer vision for robotics.
 
 ```yaml
 name:      Alec Asdourian
