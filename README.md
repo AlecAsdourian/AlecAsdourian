@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> About Me
+## About Me
 
 I'm a **Mathematics & Computer Science** student at **UC San Diego** (B.S. '27), currently a **Software Developer Intern at IBM** working on test automation for watsonx.ai. Most of what I build sits at the intersection of **machine learning and real infrastructure**: retrieval systems, ingestion pipelines, computer vision for robotics, and the unglamorous plumbing that keeps all of it running in production.
 
@@ -33,7 +33,6 @@ ask_me_about: [RAG pipelines, YOLO segmentation, FastAPI, ROS 2, test automation
 offline:   [lifting, biking, hiking]
 ```
 
-When I'm not at a terminal I'm usually **lifting**, out on a **bike**, or somewhere on a **trail**. Good ways to think through a problem you've been staring at for too long.
 
 ---
 
@@ -144,16 +143,11 @@ Real-time CV pipeline that locates all **87 keys** on a TKL keyboard from live v
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlecAsdourian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=7AA2F7&icon_color=7AA2F7&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecAsdourian&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=7AA2F7&bg_color=0D1117" />
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlecAsdourian&hide_border=true&theme=tokyonight&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&background=0D1117" />
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlecAsdourian&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
