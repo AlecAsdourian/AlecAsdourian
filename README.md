@@ -171,8 +171,6 @@ Always open to talking about ML systems, backend architecture, or a good trail r
 
 <br/><br/>
 
-<i>"Make it work, make it right, make it fast."</i>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7AA2F7&height=120&section=footer" width="100%" />
 
 </div>
