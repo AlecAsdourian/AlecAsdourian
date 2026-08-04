@@ -43,19 +43,19 @@ When I'm not at a terminal I'm usually **lifting**, out on a **bike**, or somewh
 <tr>
 <td width="33%" valign="top">
 
-### 🧪 IBM
+###  IBM
 Playwright/TypeScript UI and API test automation for **watsonx.ai** Synthetic Data Generation, covering three generation pipelines end to end.
 
 </td>
 <td width="33%" valign="top">
 
-### 🔬 SciCrunch
+###  SciCrunch
 PubMed ingestion pipeline with incremental diffs into MySQL + Redis caching, plus a desktop GUI that streams 10K–500K row exports.
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Yonder Dynamics
+###  Yonder Dynamics
 Real-time CV pipeline that locates all **87 keys** on a TKL keyboard from live video so an autonomous arm can hit any one of them.
 
 </td>
@@ -70,10 +70,10 @@ Real-time CV pipeline that locates all **87 keys** on a TKL keyboard from live v
 
 | Project | What It Does | Stack |
 |:--|:--|:--|
-| **🔎 RAG Smart Documentation** | Structure-aware ingestion with tree-sitter AST parsing and semantic chunking, hitting **83% retrieval similarity** over plain-text chunking. Semantic caching in Redis at a 0.85 cosine threshold, multi-tenant isolation via Postgres RLS. | `Python` `Qdrant` `PostgreSQL` `Redis` `Claude API` |
-| **🎙️ Speech-to-Text Model** | CNN-Transformer trained on 100+ hours of audio down to a **9% WER**, with inference latency cut to **120ms** using layer fusion and batching. | `PyTorch` `Transformers` `NumPy` |
-| **💬 Conversational Lead Agent** | Multi-platform AI agent handling 100+ daily interactions, **96% intent classification accuracy**, Salesforce/HubSpot integration over REST and webhooks. | `LangChain` `FAISS` `FastAPI` `React` |
-| **🦾 Autonomous Rover Behaviors** | Obstacle avoidance and return-to-home autonomy built as a ROS 2 node architecture, validated in Webots simulation. | `ROS 2` `Python` `Webots` |
+| ** RAG Smart Documentation** | Structure-aware ingestion with tree-sitter AST parsing and semantic chunking, hitting **83% retrieval similarity** over plain-text chunking. Semantic caching in Redis at a 0.85 cosine threshold, multi-tenant isolation via Postgres RLS. | `Python` `Qdrant` `PostgreSQL` `Redis` `Claude API` |
+| ** Speech-to-Text Model** | CNN-Transformer trained on 100+ hours of audio down to a **9% WER**, with inference latency cut to **120ms** using layer fusion and batching. | `PyTorch` `Transformers` `NumPy` |
+| ** Conversational Lead Agent** | Multi-platform AI agent handling 100+ daily interactions, **96% intent classification accuracy**, Salesforce/HubSpot integration over REST and webhooks. | `LangChain` `FAISS` `FastAPI` `React` |
+| ** Autonomous Rover Behaviors** | Obstacle avoidance and return-to-home autonomy built as a ROS 2 node architecture, validated in Webots simulation. | `ROS 2` `Python` `Webots` |
 
 </div>
 
